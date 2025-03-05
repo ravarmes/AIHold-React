@@ -69,19 +69,22 @@ O sistema oferece:
 git clone https://github.com/ravarmes/AIHold-React.git
 ```
 
-2. Instale as dependências:
+2. Acesse o diretório do projeto:
 ```bash
-npm install
-# ou
-yarn install
+cd AIHold-React
 ```
 
-3. Inicie o servidor de desenvolvimento:
+3. Instale as dependências:
 ```bash
-npm run dev
-# ou
-yarn dev
+npm install
 ```
+
+4. Inicie o servidor de desenvolvimento:
+```bash
+npm start
+```
+
+O aplicativo será aberto automaticamente no seu navegador padrão. Se isso não acontecer, acesse [http://localhost:3000](http://localhost:3000).
 
 ### Estrutura do Projeto
 
