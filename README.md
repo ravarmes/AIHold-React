@@ -5,10 +5,10 @@
 </h1>
 
 <h3 align="center">
-  AIHold-React: Sistema Inteligente de Gerenciamento de Dados
+  AIHold: Otimização de Carteiras de Investimentos com Algoritmos Genéticos
 </h3>
 
-<p align="center">Aplicação para gerenciamento e análise de dados utilizando inteligência artificial.</p>
+<p align="center">Uma Abordagem para a Estratégia Buy and Hold</p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ravarmes/AIHold-React?color=%2304D361">
